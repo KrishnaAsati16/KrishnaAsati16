@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img width="95%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 10px;"/>
+  <img width="70%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 10px;"/>
 </div>
 
 
