@@ -4,8 +4,10 @@
 
 
 <div align="center">
-  <img width="95%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 10px;"/>
+  <img width="55%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 10px;"/>
 </div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
